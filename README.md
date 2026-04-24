@@ -1,4 +1,4 @@
-# adnan-math
+# datascience
 
 A collection of foundational notebooks and notes covering core concepts in Python for scientific computing, numerical methods, and data visualization.
 
